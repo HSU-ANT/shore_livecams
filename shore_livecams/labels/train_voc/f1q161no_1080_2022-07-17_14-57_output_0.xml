@@ -1,0 +1,70 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>f1q161no_1080_2022-07-17_14-57_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\f1q161no_1080_2022-07-17_14-57_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>103</xmin>
+            <ymin>456</ymin>
+            <xmax>281</xmax>
+            <ymax>614</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>546</xmin>
+            <ymin>480</ymin>
+            <xmax>565</xmax>
+            <ymax>499</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>892</xmin>
+            <ymin>341</ymin>
+            <xmax>1234</xmax>
+            <ymax>671</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>841</xmin>
+            <ymin>569</ymin>
+            <xmax>898</xmax>
+            <ymax>631</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>land</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1601</xmin>
+            <ymin>1066</ymin>
+            <xmax>1673</xmax>
+            <ymax>1080</ymax>
+        </bndbox>
+    </object>
+</annotation>

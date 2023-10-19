@@ -1,0 +1,114 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>519srew5_1080_2022-07-19_19-05_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\519srew5_1080_2022-07-19_19-05_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>156</xmin>
+            <ymin>929</ymin>
+            <xmax>166</xmax>
+            <ymax>952</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>188</xmin>
+            <ymin>931</ymin>
+            <xmax>197</xmax>
+            <ymax>952</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>195</xmin>
+            <ymin>927</ymin>
+            <xmax>207</xmax>
+            <ymax>949</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>581</xmin>
+            <ymin>706</ymin>
+            <xmax>602</xmax>
+            <ymax>718</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>462</xmin>
+            <ymin>886</ymin>
+            <xmax>471</xmax>
+            <ymax>912</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>469</xmin>
+            <ymin>885</ymin>
+            <xmax>478</xmax>
+            <ymax>913</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>856</xmin>
+            <ymin>827</ymin>
+            <xmax>866</xmax>
+            <ymax>850</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>782</xmin>
+            <ymin>865</ymin>
+            <xmax>792</xmax>
+            <ymax>880</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>776</xmin>
+            <ymin>865</ymin>
+            <xmax>784</xmax>
+            <ymax>878</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,92 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>f1q161no_1080_2022-07-19_03-36_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\f1q161no_1080_2022-07-19_03-36_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>481</ymin>
+            <xmax>519</xmax>
+            <ymax>761</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>256</xmin>
+            <ymin>562</ymin>
+            <xmax>263</xmax>
+            <ymax>578</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>468</xmin>
+            <ymin>437</ymin>
+            <xmax>1499</xmax>
+            <ymax>707</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>land</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1583</xmin>
+            <ymin>525</ymin>
+            <xmax>1600</xmax>
+            <ymax>532</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>land</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1568</xmin>
+            <ymin>523</ymin>
+            <xmax>1584</xmax>
+            <ymax>531</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>land</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1554</xmin>
+            <ymin>521</ymin>
+            <xmax>1571</xmax>
+            <ymax>529</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>land</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1527</xmin>
+            <ymin>521</ymin>
+            <xmax>1551</xmax>
+            <ymax>529</ymax>
+        </bndbox>
+    </object>
+</annotation>

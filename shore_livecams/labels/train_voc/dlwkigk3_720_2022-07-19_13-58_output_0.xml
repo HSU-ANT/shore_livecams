@@ -1,0 +1,70 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>dlwkigk3_720_2022-07-19_13-58_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\dlwkigk3_720_2022-07-19_13-58_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>49</xmin>
+            <ymin>532</ymin>
+            <xmax>143</xmax>
+            <ymax>563</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>968</xmin>
+            <ymin>487</ymin>
+            <xmax>972</xmax>
+            <ymax>496</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>971</xmin>
+            <ymin>487</ymin>
+            <xmax>975</xmax>
+            <ymax>496</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>976</xmin>
+            <ymin>486</ymin>
+            <xmax>980</xmax>
+            <ymax>495</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1201</xmin>
+            <ymin>459</ymin>
+            <xmax>1209</xmax>
+            <ymax>468</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,48 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>f1q161no_1080_2022-07-16_18-18_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\f1q161no_1080_2022-07-16_18-18_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>412</xmin>
+            <ymin>514</ymin>
+            <xmax>443</xmax>
+            <ymax>535</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>858</xmin>
+            <ymin>506</ymin>
+            <xmax>873</xmax>
+            <ymax>523</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1727</xmin>
+            <ymin>521</ymin>
+            <xmax>1841</xmax>
+            <ymax>579</ymax>
+        </bndbox>
+    </object>
+</annotation>

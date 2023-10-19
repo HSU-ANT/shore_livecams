@@ -1,0 +1,48 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>vgiy5566_720_2022-07-17_15-52_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\vgiy5566_720_2022-07-17_15-52_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>818</xmin>
+            <ymin>590</ymin>
+            <xmax>870</xmax>
+            <ymax>604</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1105</xmin>
+            <ymin>480</ymin>
+            <xmax>1196</xmax>
+            <ymax>615</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1205</xmin>
+            <ymin>512</ymin>
+            <xmax>1276</xmax>
+            <ymax>606</ymax>
+        </bndbox>
+    </object>
+</annotation>

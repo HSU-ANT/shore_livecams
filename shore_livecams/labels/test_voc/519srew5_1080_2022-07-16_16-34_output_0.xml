@@ -1,0 +1,48 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>519srew5_1080_2022-07-16_16-34_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\519srew5_1080_2022-07-16_16-34_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>542</xmin>
+            <ymin>902</ymin>
+            <xmax>553</xmax>
+            <ymax>926</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>601</xmin>
+            <ymin>898</ymin>
+            <xmax>609</xmax>
+            <ymax>917</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1042</xmin>
+            <ymin>847</ymin>
+            <xmax>1049</xmax>
+            <ymax>866</ymax>
+        </bndbox>
+    </object>
+</annotation>

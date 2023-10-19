@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>proylddb_1080_2022-07-16_19-56_output_0.jpeg</filename>
+	<path>C:\Users\Nowak\Desktop\Labelling\datasets\2022-07-16 Patrick\images\proylddb_1080_2022-07-16_19-56_output_0.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>land</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>742</ymin>
+			<xmax>234</xmax>
+			<ymax>809</ymax>
+		</bndbox>
+	</object>
+</annotation>

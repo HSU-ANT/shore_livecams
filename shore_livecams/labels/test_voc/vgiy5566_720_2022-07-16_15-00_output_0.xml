@@ -1,0 +1,125 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>vgiy5566_720_2022-07-16_15-00_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\vgiy5566_720_2022-07-16_15-00_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>22</xmin>
+            <ymin>398</ymin>
+            <xmax>28</xmax>
+            <ymax>410</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>33</xmin>
+            <ymin>399</ymin>
+            <xmax>44</xmax>
+            <ymax>412</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>94</xmin>
+            <ymin>396</ymin>
+            <xmax>101</xmax>
+            <ymax>413</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>132</xmin>
+            <ymin>399</ymin>
+            <xmax>140</xmax>
+            <ymax>410</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>192</xmin>
+            <ymin>400</ymin>
+            <xmax>198</xmax>
+            <ymax>409</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>201</xmin>
+            <ymin>400</ymin>
+            <xmax>207</xmax>
+            <ymax>408</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>222</xmin>
+            <ymin>400</ymin>
+            <xmax>228</xmax>
+            <ymax>409</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>639</xmin>
+            <ymin>398</ymin>
+            <xmax>645</xmax>
+            <ymax>412</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>766</xmin>
+            <ymin>420</ymin>
+            <xmax>782</xmax>
+            <ymax>432</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>834</xmin>
+            <ymin>399</ymin>
+            <xmax>844</xmax>
+            <ymax>417</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>519srew5_1080_2022-07-17_18-28_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\519srew5_1080_2022-07-17_18-28_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1380</xmin>
+            <ymin>414</ymin>
+            <xmax>1395</xmax>
+            <ymax>422</ymax>
+        </bndbox>
+    </object>
+</annotation>

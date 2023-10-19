@@ -1,0 +1,59 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>hyovmh0t_1080_2022-07-17_13-25_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\hyovmh0t_1080_2022-07-17_13-25_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>256</xmin>
+            <ymin>616</ymin>
+            <xmax>272</xmax>
+            <ymax>638</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>807</xmin>
+            <ymin>607</ymin>
+            <xmax>897</xmax>
+            <ymax>623</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1188</xmin>
+            <ymin>627</ymin>
+            <xmax>1201</xmax>
+            <ymax>636</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1265</xmin>
+            <ymin>576</ymin>
+            <xmax>1271</xmax>
+            <ymax>589</ymax>
+        </bndbox>
+    </object>
+</annotation>

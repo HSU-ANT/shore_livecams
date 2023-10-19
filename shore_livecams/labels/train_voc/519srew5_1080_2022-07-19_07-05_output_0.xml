@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>519srew5_1080_2022-07-19_07-05_output_0.jpeg</filename>
+	<path>C:\Users\gogol\Desktop\Purba\2022-07-19 Purba\images\519srew5_1080_2022-07-19_07-05_output_0.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1195</xmin>
+			<ymin>862</ymin>
+			<xmax>1201</xmax>
+			<ymax>876</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1292</xmin>
+			<ymin>861</ymin>
+			<xmax>1303</xmax>
+			<ymax>884</ymax>
+		</bndbox>
+	</object>
+</annotation>

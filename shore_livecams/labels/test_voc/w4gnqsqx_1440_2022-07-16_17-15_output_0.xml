@@ -1,0 +1,59 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>w4gnqsqx_1440_2022-07-16_17-15_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\w4gnqsqx_1440_2022-07-16_17-15_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>357</xmin>
+            <ymin>745</ymin>
+            <xmax>408</xmax>
+            <ymax>846</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>654</xmin>
+            <ymin>822</ymin>
+            <xmax>666</xmax>
+            <ymax>830</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1413</xmin>
+            <ymin>831</ymin>
+            <xmax>1438</xmax>
+            <ymax>844</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1903</xmin>
+            <ymin>831</ymin>
+            <xmax>1919</xmax>
+            <ymax>842</ymax>
+        </bndbox>
+    </object>
+</annotation>

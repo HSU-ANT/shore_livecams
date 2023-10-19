@@ -1,0 +1,48 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>hyovmh0t_1080_2022-07-19_10-25_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\hyovmh0t_1080_2022-07-19_10-25_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1451</xmin>
+            <ymin>591</ymin>
+            <xmax>1467</xmax>
+            <ymax>602</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1475</xmin>
+            <ymin>563</ymin>
+            <xmax>1499</xmax>
+            <ymax>581</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>525</xmin>
+            <ymin>711</ymin>
+            <xmax>555</xmax>
+            <ymax>727</ymax>
+        </bndbox>
+    </object>
+</annotation>

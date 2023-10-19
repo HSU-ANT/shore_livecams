@@ -1,0 +1,147 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>proylddb_1080_2022-07-17_10-26_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\proylddb_1080_2022-07-17_10-26_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>106</xmin>
+            <ymin>534</ymin>
+            <xmax>138</xmax>
+            <ymax>580</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>298</xmin>
+            <ymin>542</ymin>
+            <xmax>316</xmax>
+            <ymax>571</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>77</xmin>
+            <ymin>576</ymin>
+            <xmax>211</xmax>
+            <ymax>647</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>land</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>90</xmin>
+            <ymin>599</ymin>
+            <xmax>112</xmax>
+            <ymax>609</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>546</xmin>
+            <ymin>523</ymin>
+            <xmax>572</xmax>
+            <ymax>561</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>620</xmin>
+            <ymin>522</ymin>
+            <xmax>647</xmax>
+            <ymax>560</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>634</xmin>
+            <ymin>520</ymin>
+            <xmax>652</xmax>
+            <ymax>552</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>408</xmin>
+            <ymin>548</ymin>
+            <xmax>492</xmax>
+            <ymax>639</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1729</xmin>
+            <ymin>489</ymin>
+            <xmax>1744</xmax>
+            <ymax>518</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1880</xmin>
+            <ymin>516</ymin>
+            <xmax>1919</xmax>
+            <ymax>556</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>land</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>320</xmin>
+            <ymin>886</ymin>
+            <xmax>640</xmax>
+            <ymax>1079</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>921</xmin>
+            <ymin>683</ymin>
+            <xmax>1003</xmax>
+            <ymax>699</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>519srew5_1080_2022-07-16_12-51_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\519srew5_1080_2022-07-16_12-51_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>644</xmin>
+            <ymin>901</ymin>
+            <xmax>655</xmax>
+            <ymax>924</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>674</xmin>
+            <ymin>902</ymin>
+            <xmax>682</xmax>
+            <ymax>923</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1135</xmin>
+            <ymin>862</ymin>
+            <xmax>1142</xmax>
+            <ymax>879</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1082</xmin>
+            <ymin>855</ymin>
+            <xmax>1089</xmax>
+            <ymax>876</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1516</xmin>
+            <ymin>806</ymin>
+            <xmax>1525</xmax>
+            <ymax>823</ymax>
+        </bndbox>
+    </object>
+</annotation>

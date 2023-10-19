@@ -1,0 +1,59 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>proylddb_1080_2022-07-17_14-56_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\proylddb_1080_2022-07-17_14-56_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>38</xmin>
+            <ymin>527</ymin>
+            <xmax>215</xmax>
+            <ymax>650</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1790</xmin>
+            <ymin>500</ymin>
+            <xmax>1804</xmax>
+            <ymax>505</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1704</xmin>
+            <ymin>501</ymin>
+            <xmax>1713</xmax>
+            <ymax>509</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>land</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>900</ymin>
+            <xmax>289</xmax>
+            <ymax>1080</ymax>
+        </bndbox>
+    </object>
+</annotation>

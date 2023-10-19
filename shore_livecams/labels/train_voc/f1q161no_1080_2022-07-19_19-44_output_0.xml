@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>f1q161no_1080_2022-07-19_19-44_output_0.jpeg</filename>
+	<path>C:\Users\gogol\Desktop\Purba\2022-07-19 Purba\images\f1q161no_1080_2022-07-19_19-44_output_0.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>land</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>965</xmin>
+			<ymin>535</ymin>
+			<xmax>996</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>519srew5_1080_2022-07-16_15-29_output_0.jpeg</filename>
+	<path>C:\Users\Nowak\Desktop\Labelling\datasets\2022-07-16 Patrick\images\519srew5_1080_2022-07-16_15-29_output_0.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>741</xmin>
+			<ymin>455</ymin>
+			<xmax>752</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

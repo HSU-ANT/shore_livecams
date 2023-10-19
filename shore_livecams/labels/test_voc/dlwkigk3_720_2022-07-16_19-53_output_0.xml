@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>dlwkigk3_720_2022-07-16_19-53_output_0.jpeg</filename>
+	<path>C:\Users\Nowak\Desktop\Labelling\datasets\2022-07-16 Patrick\images\dlwkigk3_720_2022-07-16_19-53_output_0.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>905</xmin>
+			<ymin>324</ymin>
+			<xmax>930</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymin>644</ymin>
+			<xmax>575</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>

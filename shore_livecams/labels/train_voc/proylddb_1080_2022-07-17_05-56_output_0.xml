@@ -1,0 +1,37 @@
+<annotation>
+    <folder>dataset-processing</folder>
+    <filename>proylddb_1080_2022-07-17_05-56_output_0.xml</filename>
+    <path>C:\Users\Daniel Ahlers\Git\dataset-processing\proylddb_1080_2022-07-17_05-56_output_0.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2</xmin>
+            <ymin>351</ymin>
+            <xmax>181</xmax>
+            <ymax>605</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sea</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1493</xmin>
+            <ymin>404</ymin>
+            <xmax>1711</xmax>
+            <ymax>505</ymax>
+        </bndbox>
+    </object>
+</annotation>

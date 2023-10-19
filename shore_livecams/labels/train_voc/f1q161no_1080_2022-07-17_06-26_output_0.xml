@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>f1q161no_1080_2022-07-17_06-26_output_0.jpeg</filename>
+	<path>C:\Users\Daniel Ahlers\Git\dataset-processing\datasets\shore_livecams_YOLO_Label_Detection_Human_verified_Patched_Combined\2022-07-17 Daniel\images\f1q161no_1080_2022-07-17_06-26_output_0.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sea</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>590</ymin>
+			<xmax>391</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>
